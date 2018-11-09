@@ -1,0 +1,142 @@
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\text\Webs\customer.py", line 19, in GET
+    password=data.password        #密码
+  File "D:\Python27\lib\site-packages\web\utils.py", line 76, in __getattr__
+    raise AttributeError, k
+AttributeError: 'password'
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 51, in GET
+    code = 201 if Mysql.register.Username_isExist(username) else 0 #用户名已注册
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    code = 201 if Mysql.register.Username_isExist(username) else 0 #用户名已注册
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    code = 201 if Mysql.register.Username_isExist(username) else 0 #用户名已注册
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    code = 201 if Mysql.register.Username_isExist(username) else 0 #用户名已注册
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    code = 201 if Mysql.register.Username_isExist(username) else 0 #用户名已注册
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    Mysql.register.Register(Password=password,Username=username)
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    Mysql.register.Register(Password=password,Username=username)
+NameError: global name 'Mysql' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 25, in Register
+    cur = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 40, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 41, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 42, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 43, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 44, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Bo\Desktop\text\Webs\customer.py", line 50, in GET
+    result=Mysql.register.Register(Username=username)
+  File "C:\Users\Bo\Desktop\text\Mysql\register.py", line 45, in Register
+    except MySQLdb.Error,e:
+NameError: global name 'MySQLdb' is not defined

@@ -1,0 +1,2 @@
+120.82.94.165 wrote:
+{"first_type":"AABC","second_type":"AASX","device_number":1,"current_status":"00_00_00","request":53}

@@ -1,0 +1,948 @@
+﻿Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 47, in Get_record_eye
+    return result+"haa"
+TypeError: can only concatenate tuple (not "str") to tuple
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 47, in Get_record_eye
+    return result+"haa"
+TypeError: can only concatenate tuple (not "str") to tuple
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+TypeError: 'int' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+TypeError: 'int' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[-2]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 154, in GET
+    "time":every_message[0],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 179, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "H:\Desktop\eye\Mysql\record.py", line 97, in Record_health
+    if get_by_health_record_id(Record_id) == None:
+NameError: global name 'get_by_health_record_id' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 181, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "H:\Desktop\eye\Mysql\record.py", line 97, in Record_health
+    if get_by_health_record_id(Record_id) == None:
+NameError: global name 'get_by_health_record_id' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 212, in GET
+    "time":every_message[0],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 35, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 120, in GET
+    Mysql.park.Register_park(Park_name=park_name,Addr=addr,Gps_x=gps_x,Gps_y=gps_y,Price=price,Wifi_name=wifi_name,Wifi_password=wifi_password)
+  File "C:\Users\Administrator\Desktop\park\Mysql\park.py", line 22, in Register_park
+    if get_by_park_id(result) == None:
+  File "C:\Users\Administrator\Desktop\park\Mysql\park.py", line 81, in get_by_park_id
+    sql = "select * from park_message where park_name='%s'"%park_name
+NameError: global name 'park_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 151, in GET
+    "addr":every_message[2],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 152, in GET
+    "addr":every_message[2],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 208, in GET
+    every_message = Mysql.park.get_by_park_id(Park_id=park_id)#车场id是否存在
+  File "C:\Users\Administrator\Desktop\park\Mysql\park.py", line 78, in get_by_park_id
+    sql = "select * from park_message where park_name='%s'"%park_name
+NameError: global name 'park_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 208, in GET
+    every_message = Mysql.park.get_by_park_id(Park_id=park_id)#车场id是否存在
+  File "C:\Users\Administrator\Desktop\park\Mysql\park.py", line 78, in get_by_park_id
+    sql = "select * from park_message where park_name='%s'"%park_name
+NameError: global name 'park_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 208, in GET
+    every_message = Mysql.park.get_by_park_id(Park_id=park_id)#车场id是否存在
+  File "C:\Users\Administrator\Desktop\park\Mysql\park.py", line 78, in get_by_park_id
+    sql = "select * from park_message where park_name='%s'"%park_name
+NameError: global name 'park_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 534, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 532, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 533, in GET
+    every_message=Mysql.cost.Show_balance(User_id=user_id)
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 502, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 503, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 503, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 503, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 503, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 505, in GET
+    every_message = Mysql.cost.get_by_user_id(User_id=user_id)#用户id不存在
+AttributeError: 'module' object has no attribute 'cost'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 564, in GET
+    every_message = Mysql.cost.get_by_user_id_from_balance(User_id)#用户id不存在
+NameError: global name 'User_id' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 63, in Start_indent
+    Gettime1=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=result3-1
+TypeError: unsupported operand type(s) for -: 'tuple' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=result3-int(1)
+TypeError: unsupported operand type(s) for -: 'tuple' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=int(result3-int(1))
+TypeError: unsupported operand type(s) for -: 'tuple' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=int(result3-int(1))
+TypeError: unsupported operand type(s) for -: 'tuple' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=int(int(result3)-int(1))
+TypeError: int() argument must be a string or a number, not 'tuple'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 611, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 88, in Start_indent
+    new_surplus=int(int(result3)-int(1))
+TypeError: int() argument must be a string or a number, not 'tuple'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 156, in Finish_indent
+    get1=(Gettime2-result).second
+TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'tuple'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 156, in Finish_indent
+    get1=(Gettime2-result).second
+TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'tuple'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 156, in Finish_indent
+    get1=(Gettime2-result).seconds
+TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'tuple'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 158, in Finish_indent
+    Gettime3=datetime.datetime.result[0]
+AttributeError: type object 'datetime.datetime' has no attribute 'result'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 158, in Finish_indent
+    Gettime3=datetime.result[0]
+AttributeError: 'module' object has no attribute 'result'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 158, in Finish_indent
+    Gettime3=time.result[0]
+AttributeError: 'module' object has no attribute 'result'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result.ctime(),Gettime2.ctime()
+AttributeError: 'tuple' object has no attribute 'ctime'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].datatime(),Gettime2.ctime()
+AttributeError: 'datetime.datetime' object has no attribute 'datatime'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return (result[0].ctime() - Gettime2.ctime()).seconds
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return (result[0].ctime() - Gettime2.ctime()).seconds
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),datetime(Gettime2.ctime())
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),datetime.datetime(Gettime2.ctime())
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),datetime.datetime(Gettime2.ctime())
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),time.time(Gettime2.ctime())
+TypeError: time() takes no arguments (1 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),time.time(Gettime2.ctime())
+TypeError: time() takes no arguments (1 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),time.time(Gettime2.ctime())
+TypeError: time() takes no arguments (1 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 661, in GET
+    haha=Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 148, in Finish_indent
+    return result[0].ctime(),time.time(Gettime2.ctime())
+TypeError: time() takes no arguments (1 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 680, in GET
+    every_message=Mysql.cost.Show_park()
+AttributeError: 'module' object has no attribute 'Show_park'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 72, in GET
+    "user_id":every_message[4]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 72, in GET
+    "user_id":every_message[4]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 72, in GET
+    "user_id":every_message[4]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 260, in GET
+    "park_surplus":every_message[1],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 260, in GET
+    "park_surplus":every_message[1],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 76, in GET
+    "user_id":every_message[4],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 76, in GET
+    "user_id":every_message[4],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 76, in GET
+    "user_id":every_message[4],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/root/park/Webs/customer.py", line 76, in GET
+    "user_id":every_message[4],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 653, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Park_name=park_message[1],Payment_status=payment_status)
+TypeError: Start_indent() takes exactly 5 arguments (4 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 653, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Park_name=park_message[1],Payment_status=payment_status)
+TypeError: Start_indent() takes exactly 5 arguments (4 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 653, in GET
+    every_message=Mysql.cost.Start_indent(User_id=user_id,Park_id=park_id,Park_name=park_message[1],Payment_status=payment_status)
+TypeError: Start_indent() takes exactly 5 arguments (4 given)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 228, in GET
+    park_id_list.append(message[0])
+TypeError: 'long' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 697, in GET
+    payment_status_message=Mysql.cost.get_by_indent(park_id,user_id)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 140, in get_by_indent
+    result[0] = cur.fetchall()
+NameError: global name 'result' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 706, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 706, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 706, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 706, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 706, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 707, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 710, in GET
+    return haah
+NameError: global name 'haah' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 708, in GET
+    if test=="":
+NameError: global name 'test' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    return hahaaa
+NameError: global name 'hahaaa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 699, in GET
+    if payment_status_message.contains("no"):
+AttributeError: 'list' object has no attribute 'contains'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 699, in GET
+    if payment_status_message.contains('no'):
+AttributeError: 'list' object has no attribute 'contains'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 703, in GET
+    test.append(message)
+NameError: global name 'test' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\park\Webs\customer.py", line 759, in GET
+    Mysql.cost.Finish_indent(Indent_id=indent_id,User_id=user_id,Park_id=park_id,Payment_status=payment_status,Power=power)
+  File "C:\Users\Administrator\Desktop\park\Mysql\cost.py", line 176, in Finish_indent
+    for result1_word in result1:
+TypeError: 'NoneType' object is not iterable

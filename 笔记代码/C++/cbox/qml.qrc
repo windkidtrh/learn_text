@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/home/HomePage.qml</file>
+        <file>imgs/Home/home.jpg</file>
+        <file>imgs/other/about.png</file>
+        <file>imgs/other/oder.png</file>
+        <file>imgs/other/smarthome.png</file>
+        <file>UI/about/About.qml</file>
+        <file>UI/education/Education.qml</file>
+        <file>UI/oder/Oder.qml</file>
+        <file>UI/smarthome/Smarthome.qml</file>
+        <file>imgs/other/education.png</file>
+        <file>imgs/other/welcome.png</file>
+        <file>imgs/other/about1.png</file>
+        <file>imgs/other/education1.png</file>
+        <file>imgs/other/oder1.png</file>
+        <file>imgs/other/smarthome1.png</file>
+        <file>imgs/other/search.png</file>
+        <file>imgs/Home/left.jpg</file>
+        <file>imgs/Home/right.png</file>
+        <file>UI/education/content/Cpp.qml</file>
+        <file>UI/education/content/Java.qml</file>
+        <file>UI/education/content/Mysql.qml</file>
+        <file>UI/education/content/Python.qml</file>
+        <file>imgs/other/test.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\text\Webs\customer.py", line 19, in GET
+    password=data.password        #密码
+  File "D:\Python27\lib\site-packages\web\utils.py", line 76, in __getattr__
+    raise AttributeError, k
+AttributeError: 'password'

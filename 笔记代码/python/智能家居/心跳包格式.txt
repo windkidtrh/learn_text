@@ -1,0 +1,6 @@
+{"first_type":"AABC","second_type":"AASX","device_number":1,"current_status":"00_00_00","request":207}
+
+
+
+
+{"first_type":"AAAA","second_type":"BBBB","product_num":2,"state":{"current_status":"00_00_00"}}

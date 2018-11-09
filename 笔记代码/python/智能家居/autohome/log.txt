@@ -1,0 +1,49 @@
+192.168.1.100 wrote:
+connection;current_status:no;mac_number:test2;Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\customer.py", line 215, in GET
+    "driver":[{mac_number_list}],
+TypeError: unhashable type: 'dict'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\customer.py", line 207, in GET
+    mac_number_list["mac_number"]=message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 100, in GET
+    for message in every_message:
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 100, in GET
+    for message in every_message:
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 100, in GET
+    for message in every_message:
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 100, in GET
+    for message in every_message:
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 100, in GET
+    for message in every_message:
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 97, in GET
+    return every_message
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 97, in GET
+    return every_message
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 98, in GET
+    return every_message
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 98, in GET
+    return every_message
+NameError: global name 'every_message' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\autohome\Webs\manager.py", line 98, in GET
+    return every_message
+NameError: global name 'every_message' is not defined

@@ -1,0 +1,2 @@
+192.168.99.69 wrote:
+{"first_type":"AABC","second_type":"AASX","device_number":2,"current_status":"00_00_00","request":0}

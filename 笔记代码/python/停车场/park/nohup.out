@@ -1,0 +1,287 @@
+14.157.237.212:3253 - - [15/Aug/2016 22:41:06] "HTTP/1.1 GET /everyone/Login" - 200 OK
+14.157.237.212:3253 - - [15/Aug/2016 22:41:06] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+14.157.237.212:3253 - - [15/Aug/2016 22:41:06] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+14.157.237.212:3253 - - [15/Aug/2016 22:41:14] "HTTP/1.1 GET /everyone/Login" - 200 OK
+101.226.68.215:54853 - - [15/Aug/2016 22:41:31] "HTTP/1.1 GET /everyone/Login" - 200 OK
+14.157.237.212:3281 - - [15/Aug/2016 22:42:43] "HTTP/1.1 GET /everyone/Login" - 200 OK
+180.153.81.212:43992 - - [15/Aug/2016 22:44:31] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:4578 - - [15/Aug/2016 22:50:25] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:4578 - - [15/Aug/2016 22:50:25] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:4670 - - [15/Aug/2016 22:53:09] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:4721 - - [15/Aug/2016 22:54:29] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:4721 - - [15/Aug/2016 22:54:38] "HTTP/1.1 GET /everyone/Login" - 200 OK
+/root/park/Mysql/user.py:24: Warning: Field 'user_balance' doesn't have a default value
+  cur.execute(sql3)
+/root/park/Mysql/user.py:24: Warning: Field 'password' doesn't have a default value
+  cur.execute(sql3)
+113.107.163.197:9996 - - [16/Aug/2016 10:23:29] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:9996 - - [16/Aug/2016 10:23:29] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:10000 - - [16/Aug/2016 10:23:45] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:10052 - - [16/Aug/2016 10:25:57] "HTTP/1.1 GET /everyone/Record_eye？record_id=12&left_eye=5.2&right_eye=5.2" - 404 Not Found
+113.107.163.197:10055 - - [16/Aug/2016 10:26:11] "HTTP/1.1 GET /everyone/Record_eye" - 404 Not Found
+113.107.163.197:10104 - - [16/Aug/2016 10:27:39] "HTTP/1.1 GET /everyone/Record_eye" - 404 Not Found
+113.107.163.197:10923 - - [16/Aug/2016 11:05:25] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:12740 - - [16/Aug/2016 14:14:58] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:12751 - - [16/Aug/2016 14:16:04] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:13092 - - [16/Aug/2016 14:28:17] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:11451 - - [21/Aug/2016 12:15:32] "HTTP/1.1 GET /Get_record_eye" - 404 Not Found
+113.107.163.197:11451 - - [21/Aug/2016 12:15:32] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+14.157.176.216:1419 - - [03/Sep/2016 11:56:33] "HTTP/1.1 GET /everyone/Login" - 200 OK
+14.157.176.216:1420 - - [03/Sep/2016 11:56:33] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+61.151.226.202:46432 - - [03/Sep/2016 11:59:33] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:37997 - - [03/Sep/2016 12:33:17] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:37997 - - [03/Sep/2016 12:33:17] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:38067 - - [03/Sep/2016 12:33:34] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:38130 - - [03/Sep/2016 12:33:48] "HTTP/1.1 GET /everyone/Login" - 200 OK
+/root/park/Mysql/park.py:11: Warning: Data truncated for column 'wifi_name' at row 1
+  cur.execute(sql1)
+/root/park/Mysql/park.py:24: Warning: Field 'park_surplus' doesn't have a default value
+  cur.execute(sql3)
+/root/park/Mysql/park.py:24: Warning: Field 'park_all' doesn't have a default value
+  cur.execute(sql3)
+/root/park/Mysql/park.py:24: Warning: Field 'park_show' doesn't have a default value
+  cur.execute(sql3)
+/root/park/Mysql/park.py:30: Warning: Field 'length' doesn't have a default value
+  cur.execute(sql4)
+/root/park/Mysql/park.py:30: Warning: Field 'width' doesn't have a default value
+  cur.execute(sql4)
+113.107.163.197:41463 - - [03/Sep/2016 20:11:01] "HTTP/1.1 GET /everyone/Register_park" - 200 OK
+113.107.163.197:41600 - - [03/Sep/2016 20:11:39] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:44420 - - [03/Sep/2016 20:23:48] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:46053 - - [03/Sep/2016 20:30:33] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:46170 - - [03/Sep/2016 20:31:00] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:46170 - - [03/Sep/2016 20:31:08] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:46499 - - [03/Sep/2016 20:32:28] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:46499 - - [03/Sep/2016 20:32:36] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:47044 - - [03/Sep/2016 20:34:53] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:47924 - - [03/Sep/2016 20:38:47] "HTTP/1.1 GET /everyone/Update_park_stall" - 200 OK
+113.107.163.197:47991 - - [03/Sep/2016 20:39:04] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:49276 - - [03/Sep/2016 20:44:57] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:49483 - - [03/Sep/2016 20:45:50] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:49642 - - [03/Sep/2016 20:46:31] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:49899 - - [03/Sep/2016 20:47:37] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+112.90.82.196:25199 - - [03/Sep/2016 20:47:58] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+101.226.89.121:42220 - - [03/Sep/2016 20:50:58] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:51454 - - [03/Sep/2016 20:54:23] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:51454 - - [03/Sep/2016 20:54:27] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.108.21.69:59188 - - [03/Sep/2016 20:54:38] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+14.157.176.216:49594 - - [03/Sep/2016 20:54:52] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+14.157.176.216:49594 - - [03/Sep/2016 20:54:53] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+101.226.65.107:39803 - - [03/Sep/2016 20:57:38] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:52904 - - [03/Sep/2016 21:00:34] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:52897 - - [04/Sep/2016 10:51:01] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:52914 - - [04/Sep/2016 10:54:59] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:32515 - - [04/Sep/2016 11:03:11] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:32515 - - [04/Sep/2016 11:03:11] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:32741 - - [04/Sep/2016 11:03:26] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:52922 - - [04/Sep/2016 11:04:46] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:52935 - - [04/Sep/2016 11:07:01] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:53441 - - [04/Sep/2016 12:39:50] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:53714 - - [04/Sep/2016 13:28:56] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:53714 - - [04/Sep/2016 13:29:02] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:53718 - - [04/Sep/2016 13:29:58] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:53718 - - [04/Sep/2016 13:30:06] "HTTP/1.1 GET /everyone/Login" - 200 OK
+14.223.115.162:1922 - - [04/Sep/2016 15:52:17] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+14.223.115.162:1922 - - [04/Sep/2016 15:52:17] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+14.223.115.162:1922 - - [04/Sep/2016 15:52:17] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+14.223.115.162:1930 - - [04/Sep/2016 15:53:13] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+112.90.82.196:45083 - - [04/Sep/2016 16:03:17] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+101.226.64.174:52565 - - [04/Sep/2016 16:03:17] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+180.153.206.16:36547 - - [04/Sep/2016 16:06:17] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+119.147.146.192:27320 - - [04/Sep/2016 16:10:08] "HTTP/1.1 GET /everyone/For_password" - 200 OK
+113.107.163.197:20254 - - [17/Sep/2016 16:29:03] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:20254 - - [17/Sep/2016 16:29:03] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:13814 - - [17/Sep/2016 19:22:58] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45401 - - [17/Sep/2016 21:07:38] "HTTP/1.1 GET /everyone/everyone/Show_park" - 404 Not Found
+113.107.163.197:52972 - - [17/Sep/2016 21:07:59] "HTTP/1.1 GET /everyone/everyone/Show_park" - 404 Not Found
+113.107.163.197:45449 - - [17/Sep/2016 21:12:39] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45490 - - [17/Sep/2016 21:16:54] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45533 - - [17/Sep/2016 21:19:55] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45588 - - [17/Sep/2016 21:23:31] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45588 - - [17/Sep/2016 21:23:34] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45588 - - [17/Sep/2016 21:23:36] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45640 - - [17/Sep/2016 21:26:42] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45746 - - [17/Sep/2016 21:31:58] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45972 - - [17/Sep/2016 21:33:09] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:45972 - - [17/Sep/2016 21:33:14] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46236 - - [17/Sep/2016 21:48:15] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:46280 - - [17/Sep/2016 21:51:22] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:46361 - - [17/Sep/2016 21:55:15] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:46702 - - [17/Sep/2016 22:01:26] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46756 - - [17/Sep/2016 22:03:52] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46761 - - [17/Sep/2016 22:04:03] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46795 - - [17/Sep/2016 22:05:40] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46799 - - [17/Sep/2016 22:05:56] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47164 - - [17/Sep/2016 22:08:56] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47164 - - [17/Sep/2016 22:08:57] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47164 - - [17/Sep/2016 22:09:04] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47164 - - [17/Sep/2016 22:09:09] "HTTP/1.1 GET /everyone/Register" - 200 OK
+113.107.163.197:47164 - - [17/Sep/2016 22:09:10] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47725 - - [17/Sep/2016 22:49:56] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:47732 - - [17/Sep/2016 22:50:14] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47762 - - [17/Sep/2016 22:52:22] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:47762 - - [17/Sep/2016 22:52:24] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:47797 - - [17/Sep/2016 22:55:11] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:47797 - - [17/Sep/2016 22:55:14] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:48158 - - [17/Sep/2016 23:02:15] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48158 - - [17/Sep/2016 23:02:21] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48186 - - [17/Sep/2016 23:29:41] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48186 - - [17/Sep/2016 23:29:45] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:48186 - - [17/Sep/2016 23:29:49] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+/root/park/Mysql/cost.py:70: Warning: Field 'payment_time' doesn't have a default value
+  cur.execute(sql1)
+113.107.163.197:48186 - - [17/Sep/2016 23:29:52] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:48509 - - [17/Sep/2016 23:33:09] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48509 - - [17/Sep/2016 23:33:11] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:48509 - - [17/Sep/2016 23:33:14] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:48509 - - [17/Sep/2016 23:33:19] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48509 - - [17/Sep/2016 23:33:21] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+117.136.79.202:59128 - - [17/Sep/2016 23:42:44] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48908 - - [18/Sep/2016 10:39:07] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:48908 - - [18/Sep/2016 10:39:09] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:48908 - - [18/Sep/2016 10:39:12] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:48955 - - [18/Sep/2016 10:56:39] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:48975 - - [18/Sep/2016 11:10:18] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:49641 - - [19/Sep/2016 20:23:10] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:49649 - - [19/Sep/2016 20:23:32] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:50184 - - [19/Sep/2016 20:27:22] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:50184 - - [19/Sep/2016 20:27:24] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:50676 - - [19/Sep/2016 20:35:32] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:50676 - - [19/Sep/2016 20:35:34] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:50920 - - [19/Sep/2016 20:41:46] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:50920 - - [19/Sep/2016 20:41:52] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:51041 - - [19/Sep/2016 20:51:50] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:51125 - - [19/Sep/2016 20:54:17] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:51125 - - [19/Sep/2016 20:54:20] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:51125 - - [19/Sep/2016 20:54:24] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:51756 - - [19/Sep/2016 21:05:46] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:51756 - - [19/Sep/2016 21:05:55] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:51756 - - [19/Sep/2016 21:06:00] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:49960 - - [19/Sep/2016 21:22:19] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:49960 - - [19/Sep/2016 21:22:19] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+101.226.33.225:55855 - - [19/Sep/2016 21:25:19] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:50231 - - [19/Sep/2016 21:41:21] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:50244 - - [19/Sep/2016 21:41:44] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:50252 - - [19/Sep/2016 21:42:08] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+180.153.201.66:43068 - - [19/Sep/2016 21:44:44] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+101.226.66.178:45362 - - [19/Sep/2016 21:45:07] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:43562 - - [19/Sep/2016 22:03:10] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:43562 - - [19/Sep/2016 22:03:10] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:46402 - - [19/Sep/2016 22:12:06] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:51522 - - [19/Sep/2016 22:28:15] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:7294 - - [20/Sep/2016 13:16:52] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:45006 - - [20/Sep/2016 15:15:42] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:52125 - - [20/Sep/2016 15:17:40] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:52125 - - [20/Sep/2016 15:17:43] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:52125 - - [20/Sep/2016 15:17:46] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:52125 - - [20/Sep/2016 15:17:50] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:45804 - - [20/Sep/2016 15:18:06] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:53329 - - [20/Sep/2016 15:42:08] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:53386 - - [20/Sep/2016 15:42:19] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:52436 - - [20/Sep/2016 16:25:44] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:58753 - - [20/Sep/2016 22:03:11] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:53937 - - [20/Sep/2016 22:03:11] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:54187 - - [20/Sep/2016 22:03:31] "HTTP/1.1 GET /everyone/Login" - 200 OK
+61.151.226.191:49459 - - [20/Sep/2016 22:04:24] "HTTP/1.1 GET /everyone/Login" - 200 OK
+180.163.2.117:49123 - - [20/Sep/2016 22:04:24] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:54223 - - [20/Sep/2016 22:08:12] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:54223 - - [20/Sep/2016 22:08:13] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54240 - - [20/Sep/2016 22:09:01] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+/root/park/Mysql/cost.py:70: Warning: Field 'payment_time' doesn't have a default value
+  cur.execute(sql1)
+113.107.163.197:54240 - - [20/Sep/2016 22:09:03] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:54240 - - [20/Sep/2016 22:09:05] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+183.61.51.178:54125 - - [20/Sep/2016 22:09:22] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:54251 - - [20/Sep/2016 22:09:24] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54251 - - [20/Sep/2016 22:09:27] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:54251 - - [20/Sep/2016 22:09:29] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:54251 - - [20/Sep/2016 22:09:31] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54281 - - [20/Sep/2016 22:10:26] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54289 - - [20/Sep/2016 22:10:56] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:54289 - - [20/Sep/2016 22:11:00] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54320 - - [20/Sep/2016 22:12:05] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:54324 - - [20/Sep/2016 22:12:17] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:54324 - - [20/Sep/2016 22:12:20] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54324 - - [20/Sep/2016 22:12:29] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:54324 - - [20/Sep/2016 22:12:32] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54385 - - [20/Sep/2016 22:15:41] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:54398 - - [20/Sep/2016 22:16:21] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+117.136.41.115:59041 - - [21/Sep/2016 11:33:42] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+117.136.41.115:59041 - - [21/Sep/2016 11:33:45] "HTTP/1.1 GET /everyone/Login" - 200 OK
+117.136.41.115:59041 - - [21/Sep/2016 11:33:48] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+117.136.41.115:59042 - - [21/Sep/2016 11:34:03] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+117.136.41.115:59042 - - [21/Sep/2016 11:34:05] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:55924 - - [22/Sep/2016 10:46:43] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:55924 - - [22/Sep/2016 10:46:44] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:56959 - - [22/Sep/2016 10:59:55] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:65523 - - [22/Sep/2016 14:07:23] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:65523 - - [22/Sep/2016 14:07:23] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:34200 - - [22/Sep/2016 14:07:29] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+101.226.51.227:37911 - - [22/Sep/2016 14:10:23] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58138 - - [22/Sep/2016 14:31:19] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:58138 - - [22/Sep/2016 14:31:21] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58138 - - [22/Sep/2016 14:31:26] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:58146 - - [22/Sep/2016 14:31:44] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:24] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:26] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:28] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:28] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:30] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:58179 - - [22/Sep/2016 14:33:30] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58221 - - [22/Sep/2016 14:35:34] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:58221 - - [22/Sep/2016 14:35:35] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:09] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:10] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:20] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:27] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:30] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:32] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:58249 - - [22/Sep/2016 14:37:32] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+112.90.82.218:55880 - - [23/Sep/2016 22:19:08] "HTTP/1.1 GET /everyone/Login" - 200 OK
+101.226.89.119:51794 - - [27/Sep/2016 22:07:03] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:46532 - - [02/Oct/2016 14:54:58] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:46532 - - [02/Oct/2016 14:55:00] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:46532 - - [02/Oct/2016 14:55:03] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:46532 - - [02/Oct/2016 14:55:04] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:46538 - - [02/Oct/2016 14:55:15] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:46538 - - [02/Oct/2016 14:55:17] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:46538 - - [02/Oct/2016 14:55:23] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:46538 - - [02/Oct/2016 14:55:24] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:46538 - - [02/Oct/2016 14:55:24] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:39] "HTTP/1.1 GET /everyone/Login" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:41] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:45] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:48] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:53] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:30:56] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+117.136.33.164:34036 - - [07/Oct/2016 16:31:01] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34037 - - [07/Oct/2016 16:31:12] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34037 - - [07/Oct/2016 16:31:15] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+117.136.33.164:34037 - - [07/Oct/2016 16:31:15] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34038 - - [07/Oct/2016 16:31:26] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34038 - - [07/Oct/2016 16:31:36] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+117.136.33.164:34038 - - [07/Oct/2016 16:31:40] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+42.156.251.187:64011 - - [12/Oct/2016 13:19:00] "HTTP/1.1 GET /" - 404 Not Found
+42.156.251.185:42892 - - [14/Oct/2016 10:56:06] "HTTP/1.1 GET /" - 404 Not Found
+113.107.163.197:37811 - - [16/Oct/2016 20:09:01] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:37811 - - [16/Oct/2016 20:09:04] "HTTP/1.1 GET /everyone/Show_balance" - 200 OK
+113.107.163.197:37811 - - [16/Oct/2016 20:09:08] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:37811 - - [16/Oct/2016 20:09:12] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:20495 - - [17/Oct/2016 14:44:59] "HTTP/1.1 GET /everyone/Show_park_stall" - 200 OK
+113.107.163.197:20495 - - [17/Oct/2016 14:44:59] "HTTP/1.1 GET /favicon.ico" - 404 Not Found
+113.107.163.197:38580 - - [17/Oct/2016 14:46:38] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:38580 - - [17/Oct/2016 14:46:43] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:38580 - - [17/Oct/2016 14:46:46] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:38587 - - [17/Oct/2016 14:46:56] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:38587 - - [17/Oct/2016 14:47:01] "HTTP/1.1 GET /everyone/Finish_indent" - 200 OK
+113.107.163.197:38587 - - [17/Oct/2016 14:47:01] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:38690 - - [17/Oct/2016 16:43:25] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:38690 - - [17/Oct/2016 16:43:28] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:38690 - - [17/Oct/2016 16:43:30] "HTTP/1.1 GET /everyone/Start_indent" - 200 OK
+113.107.163.197:38690 - - [17/Oct/2016 16:43:31] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:38743 - - [17/Oct/2016 16:46:02] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:38743 - - [17/Oct/2016 16:46:05] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:38743 - - [17/Oct/2016 16:46:06] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK
+113.107.163.197:38793 - - [17/Oct/2016 16:48:39] "HTTP/1.1 GET /everyone/Show_park" - 200 OK
+113.107.163.197:38793 - - [17/Oct/2016 16:48:42] "HTTP/1.1 GET /everyone/Login" - 200 OK
+113.107.163.197:38793 - - [17/Oct/2016 16:48:43] "HTTP/1.1 GET /everyone/Show_indent" - 200 OK

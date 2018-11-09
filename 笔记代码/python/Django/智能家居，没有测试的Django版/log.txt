@@ -1,0 +1,196 @@
+2017-09-23 21:48:46,924 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:48:46) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:49:40,250 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:49:40) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:49:40,250 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:15: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 21:49:40,266 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-23 21:50:48,619 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:50:48) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:50:48,619 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:15: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 21:50:48,619 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-23 21:51:29,878 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:51:29) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:51:36,474 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:51:36) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:51:47,796 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:51:47) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:52:14,973 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:52:14) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:52:14,973 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:15: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 21:52:14,973 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-23 21:52:17,322 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:52:17) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:55:00,078 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 21:55:00) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 21:55:00,078 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:15: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 21:55:00,078 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-23 22:05:08,210 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 22:05:08) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 22:05:08,210 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:14: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 22:05:08,210 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-23 22:05:33,880 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-23 22:05:33) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-23 22:05:33,880 wsgi.py[line:124] H:\Desktop\news\news\Mysqldb.py:14: RemovedInDjango19Warning: `request.REQUEST` is deprecated, use `request.GET` or `request.POST` instead.
+  callback=request.REQUEST.get("callback","")
+
+2017-09-23 22:05:33,880 datastructures.py[line:19] F:\Python27\lib\site-packages\django\core\handlers\wsgi.py:126: RemovedInDjango19Warning: `MergeDict` is deprecated, use `dict.update()` instead.
+  self._request = datastructures.MergeDict(self.POST, self.GET)
+
+2017-09-24 19:20:23,394 customer.py[line:145] error_code:102_mac
+2017-09-24 19:20:41,368 customer.py[line:145] error_code:102_mac
+2017-09-24 19:36:50,819 customer.py[line:146] error_code:102_mac
+2017-09-24 19:41:17,421 customer.py[line:146] error_code:102_mac
+2017-09-24 19:41:30,012 customer.py[line:146] error_code:102_mac
+2017-09-24 19:41:33,431 customer.py[line:146] error_code:102_mac
+2017-09-24 19:45:59,585 customer.py[line:146] error_code:102_mac
+2017-09-24 19:46:53,786 customer.py[line:146] error_code:102_mac
+2017-09-24 19:46:54,512 customer.py[line:146] error_code:102_mac
+2017-09-24 19:46:55,415 customer.py[line:146] error_code:102_mac
+2017-09-24 19:54:06,898 customer.py[line:145] error_code:102_mac
+2017-09-24 19:54:39,519 customer.py[line:146] error_code:102_mac
+2017-09-24 19:59:51,770 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-24 19:59:51) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-24 20:03:05,539 __init__.py[line:1474] F:\Python27\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Log.the_time received a naive datetime (2017-09-24 20:03:05) while time zone support is active.
+  RuntimeWarning)
+
+2017-09-24 20:17:41,753 customer.py[line:148] error_code:102_mac
+2017-09-24 20:20:12,147 customer.py[line:149] error_code:102_mac
+2017-09-24 20:20:44,930 customer.py[line:149] error_code:102_mac
+2017-09-24 20:33:06,691 customer.py[line:149] error_code:102_mac
+2017-09-24 20:34:42,036 customer.py[line:149] error_code:102_mac
+2017-09-24 20:37:41,276 customer.py[line:149] error_code:102_mac
+2017-09-24 20:47:36,111 customer.py[line:149] error_code:102_mac
+2017-09-24 20:48:56,529 customer.py[line:149] error_code:102_mac
+2017-09-24 20:52:19,367 customer.py[line:149] error_code:102_mac
+2017-09-24 20:58:58,753 customer.py[line:149] error_code:102_mac
+2017-09-24 20:59:27,480 customer.py[line:149] error_code:102_mac
+2017-09-24 21:04:01,816 customer.py[line:149] error_code:102_mac
+2017-09-24 21:04:52,263 customer.py[line:149] error_code:102_mac
+2017-09-24 21:07:08,210 customer.py[line:149] error_code:102_mac
+2017-09-24 21:08:22,812 customer.py[line:149] error_code:102_mac
+2017-09-24 21:09:32,030 customer.py[line:149] error_code:102_mac
+2017-09-24 21:18:37,903 customer.py[line:145] error_code:110_mac
+2017-09-24 21:22:58,091 customer.py[line:149] error_code:102_mac
+2017-09-24 21:25:02,071 customer.py[line:149] error_code:102_mac
+2017-09-24 21:27:15,434 customer.py[line:149] error_code:102_mac
+2017-09-24 21:28:17,848 customer.py[line:149] error_code:102_mac
+2017-09-24 21:28:19,453 customer.py[line:149] error_code:102_mac
+2017-09-24 21:28:55,648 customer.py[line:149] error_code:102_mac
+2017-09-24 21:30:52,595 customer.py[line:149] error_code:102_mac
+2017-09-24 21:33:48,999 customer.py[line:149] error_code:102_mac
+2017-09-24 21:36:01,572 customer.py[line:149] error_code:102_mac
+2017-09-24 21:51:36,381 customer.py[line:149] error_code:102_mac
+2017-09-24 22:06:35,763 customer.py[line:95] error_code:in12_life_have_no_data_mac
+2017-09-24 22:27:54,940 customer.py[line:149] error_code:102_mac
+2017-09-24 22:29:44,647 customer.py[line:95] error_code:in12_life_have_no_data_mac
+2017-09-24 22:30:43,108 customer.py[line:95] error_code:in12_life_have_no_data_mac
+2017-09-24 22:30:59,346 customer.py[line:95] error_code:in12_life_have_no_data_mac
+2017-09-24 22:31:31,355 customer.py[line:95] error_code:in12_life_have_no_data_mac
+2017-09-24 22:37:10,144 customer.py[line:92] error_code:in12_life_have_no_data_mac
+2017-09-25 10:58:49,154 customer.py[line:102] error_code:in12_have_no_data_mac
+2017-09-25 11:04:32,142 customer.py[line:89] error_code:in12_life_have_no_data_mac
+2017-09-25 11:06:14,746 customer.py[line:89] error_code:in12_life_have_no_data_mac
+2017-09-25 11:07:31,835 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:07:46,529 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:08:23,822 customer.py[line:136] error_code:104_mac
+2017-09-25 11:09:32,780 customer.py[line:136] error_code:104_mac
+2017-09-25 11:11:24,486 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:11:52,417 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:12:29,698 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:14:16,342 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:15:10,391 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:18:02,576 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:22:28,164 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:23:10,006 customer.py[line:136] error_code:104_mac
+2017-09-25 11:24:00,924 customer.py[line:136] error_code:104_mac
+2017-09-25 11:24:40,526 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:25:13,921 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:25:36,802 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:26:23,778 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:27:47,815 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:28:06,395 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:28:18,020 customer.py[line:136] error_code:104_mac
+2017-09-25 11:28:56,411 customer.py[line:136] error_code:104_mac
+2017-09-25 11:29:27,622 customer.py[line:136] error_code:104_mac
+2017-09-25 11:30:07,845 customer.py[line:136] error_code:104_mac
+2017-09-25 11:30:59,697 customer.py[line:136] error_code:104_mac
+2017-09-25 11:31:46,969 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:31:59,190 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:32:25,255 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:32:38,463 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:32:52,039 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:33:30,433 customer.py[line:136] error_code:104_mac
+2017-09-25 11:33:50,108 customer.py[line:136] error_code:104_mac
+2017-09-25 11:34:08,812 customer.py[line:136] error_code:104_mac
+2017-09-25 11:35:30,644 customer.py[line:136] error_code:104_mac
+2017-09-25 11:35:50,707 customer.py[line:136] error_code:104_mac
+2017-09-25 11:36:09,957 customer.py[line:136] error_code:104_mac
+2017-09-25 11:36:19,105 customer.py[line:136] error_code:104_mac
+2017-09-25 11:36:42,463 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:38:02,318 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:38:11,688 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:38:25,273 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:38:36,522 customer.py[line:136] error_code:104_mac
+2017-09-25 11:38:50,446 customer.py[line:136] error_code:104_mac
+2017-09-25 11:39:10,956 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:40:08,947 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:40:26,838 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:40:40,426 customer.py[line:136] error_code:104_mac
+2017-09-25 11:43:48,612 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:44:22,835 customer.py[line:136] error_code:104_mac
+2017-09-25 11:44:44,786 customer.py[line:136] error_code:104_mac
+2017-09-25 11:45:34,772 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:46:57,757 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:48:15,017 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:52:30,727 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:54:41,200 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:54:56,772 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:55:10,674 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:55:21,351 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:55:39,750 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:57:38,767 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 11:59:39,845 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 12:00:40,190 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 12:00:50,888 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 12:02:48,335 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 12:04:05,957 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 12:14:42,532 customer.py[line:90] error_code:in12_life_have_no_data_mac
+2017-09-25 15:27:17,868 customer.py[line:310] error_code:102_switch
+2017-09-25 15:36:19,076 customer.py[line:310] error_code:102_switch
+2017-09-25 15:36:49,947 customer.py[line:310] error_code:102_switch
+2017-09-25 15:37:03,440 customer.py[line:310] error_code:102_switch
+2017-09-25 15:37:04,039 customer.py[line:310] error_code:102_switch
+2017-09-25 15:37:56,522 customer.py[line:310] error_code:102_switch
+2017-09-26 10:41:45,921 customer.py[line:139] error_code:110_mac

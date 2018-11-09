@@ -1,0 +1,13 @@
+开关接口
+http://47.92.49.44:21777/Control_switch?first_type=AAAA&second_type=BBBB&product_num=1&state=00_00_01&is_manager=1
+
+
+用户接口
+http://47.92.49.44:21777/Control_mac?user_id=1&first_type=GABC&second_type=AASX&product_num=1&state=00_00_01&info=abcd&is_manager=1
+
+
+udp 接口 47.92.49.44  12000
+
+//					data://{"user_id":"1","first_type":"GABC","second_type":"AASX","product_num":"1","state"://{"current_status":"00_00_01"},"info":"abcd","is_manager":"1"},
+
+

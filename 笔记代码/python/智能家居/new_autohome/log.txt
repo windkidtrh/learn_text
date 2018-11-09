@@ -1,0 +1,1583 @@
+ÔªøTraceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 49, in handle_message
+    new_data=json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 101 (char 101)
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 49, in handle_message
+    new_data=json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 101 (char 101)
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 49, in handle_message
+    new_data=json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 101 (char 101)
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 49, in handle_message
+    new_data=json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 101 (char 101)
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 49, in handle_message
+    new_data=json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 101 (char 101)
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/Webs/customer.py", line 85, in GET
+    a=json.loads(state)#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "/root/new_autohome/Webs/customer.py", line 85, in GET
+    a=json.loads(state)#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 66, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "/root/new_autohome/udpserver.py", line 56, in handle_message
+    Request=new_data["request"]
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 54, in handle_message
+    Device_nums=new_data["device_number"]
+KeyError: 'device_number'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 54, in handle_message
+    Device_nums=new_data["device_number"]
+KeyError: 'device_number'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 54, in handle_message
+    Device_nums=new_data["device_number"]
+KeyError: 'device_number'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 120, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 120, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    timer=threading.Timer(1,test_to)
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 121, in GET
+    test_to()
+UnboundLocalError: local variable 'test_to' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 67, in handle_message
+    if int(Num12_message[5])==int(Request):
+TypeError: int() argument must be a string or a number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,Device_nums)
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,Device_nums)
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,Device_nums)
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.userWork.Product_Exist_inNum2(First_type,Second_type,Device_nums)
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.macWork.Product_Exist_inNum2(First_type,Second_type,Device_nums)
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 60, in handle_message
+    Num2_message=Mysql.macWork.Product_Exist_inNum2(First_type,Second_type,int(Device_nums))
+AttributeError: 'module' object has no attribute 'Product_Exist_inNum2'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 210, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 211, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 211, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+None
+None
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 211, in handle_message
+    sock.sendto(Order_send,(Ip_list[int(send_number)],Port_list[int(send_number)]))
+NameError: global name 'sock' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state_current=new_data["state_current"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 164, in handle_message
+    Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,str(state_current))
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 195, in handle_message
+    a=state_current["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state_current=new_data["state_current"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 164, in handle_message
+    Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,str(state_current))
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 195, in handle_message
+    a=state_current["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state_current=new_data["state_current"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 164, in handle_message
+    Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,str(state_current))
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 195, in handle_message
+    a=state_current["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state_current' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 218, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+None
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 162, in handle_message
+    Mysql.userWork.Update_Num12(target_message[3],target_message[4],int(target_message[5]),Request,state)
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 162, in handle_message
+    Mysql.userWork.Update_Num12(target_message[3],target_message[4],int(target_message[5]),Request,state)
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 106, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 162, in handle_message
+    Mysql.userWork.Update_Num12(target_message[3],target_message[4],int(target_message[5]),Request,state)
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=state["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+UnboundLocalError: local variable 'state' referenced before assignment
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 88 (char 12 - 87)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 88 (char 12 - 87)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 88 (char 12 - 87)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 88 (char 12 - 87)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 88 (char 12 - 87)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 214, in handle_message
+    print send_number,Ip_list[int(send_number)],Port_list[int(send_number)]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 214, in handle_message
+    print send_number,Ip_list[int(send_number)],Port_list[int(send_number)]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 214, in handle_message
+    print send_number,Ip_list[send_number],Port_list[send_number]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 214, in handle_message
+    print send_number,Ip_list[send_number],Port_list[send_number]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 301, in GET
+    return Ip_list[int(send_number)],Port_list[int(send_number)],send_number
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 298, in GET
+    for i in len(Ip_list):
+TypeError: 'int' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 298, in GET
+    for i in len(Ip_list):
+TypeError: 'int' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 299, in GET
+    for i in len(Ip_list):
+TypeError: 'int' object is not iterable
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=int(Num12_message_for_life[3])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 219, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 220, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 221, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 221, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 221, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=State["current"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=State["current"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=State["current"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 196, in handle_message
+    a=State["current"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting object: line 1 column 95 (char 94)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting object: line 1 column 95 (char 94)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 102, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 13 - line 1 column 95 (char 12 - 94)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 119, in handle_message
+    Num11_message=Mysql.macWork.Product_isExist_inNum11(first_type,second_type,int(product_num))
+UnboundLocalError: local variable 'first_type' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 197, in handle_message
+    a=State["current_status"]#Â≠óÁ¨¶‰∏≤ÂèòÊàêjson
+KeyError: 'current_status'
+None
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 222, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 223, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 167, in handle_message
+    haha=Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,json.loads(State))
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 167, in handle_message
+    haha=Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,json.loads(State))
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 167, in handle_message
+    haha=Mysql.userWork.Insert_Num12(target_message[3],target_message[4],int(target_message[5]),Request,json.loads(State))
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 224, in handle_message
+    stop_value=Num12_message_for_life[3]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+None
+None
+None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 46, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 46, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 46, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 47, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 47, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 47, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    state=new_data["state"]
+KeyError: 'state'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 50, in handle_message
+    socket.sendto(state,(ip_message,int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 50, in handle_message
+    socket.sendto(state,(ip_message,int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 50, in handle_message
+    socket.sendto(state,(ip_message,int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 45, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 18 (char 17)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 45, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 18 (char 17)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 45, in handle_message
+    new_data=json.loads(data)
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 1 column 18 (char 17)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(ip_message,int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 51, in handle_message
+    socket.sendto(str(state),(ip_message,10101))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\udpserver.py", line 52, in handle_message
+    print socket.sendto(str(state),(str(ip_message),int(port_message)))
+gaierror: [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 110, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 110, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 110, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+str(Num2_message[6])+""" " """+","+""" " """+"port_message"+""" " """+":"+int(Num2_message[7])+"}"
+TypeError: cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+str(Num2_message[6])+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message+"}"
+TypeError: cannot concatenate 'str' and 'tuple' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message+"}"
+TypeError: cannot concatenate 'str' and 'tuple' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Num2_message+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message+"}"
+TypeError: cannot concatenate 'str' and 'tuple' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+1+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+2+""" " """+","+""" " """+"port_message"+""" " """+":"+3+"}"
+TypeError: cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    gg="{"+""" " """+"state"+""" " """+":"+""" " """+1+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+2+""" " """+","+""" " """+"port_message"+""" " """+":"+3+"}"
+TypeError: cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    gg="{"+""" " """+"state"+""" " """+":"+""" " """+1#+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+2+""" " """+","+""" " """+"port_message"+""" " """+":"+3+"}"
+TypeError: cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+int(Num2_message[7])+"}"
+TypeError: coercing to Unicode: need string or buffer, int found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+""" " """+Num2_message[7]+""" " """+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+""" " """+Num2_message[7]+""" " """+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 112, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+Num2_message[7]+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\new_autohome\Webs\customer.py", line 113, in GET
+    new_data="{"+""" " """+"state"+""" " """+":"+""" " """+Order_send+""" " """+","+""" " """+"ip_message"+""" " """+":"+""" " """+Num2_message[6]+""" " """+","+""" " """+"port_message"+""" " """+":"+port_message+"}"
+TypeError: coercing to Unicode: need string or buffer, long found
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 67, in GET
+    Mysql.userWork.Insert_log(user_id,json.loads(state)["current_status"])
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 67, in GET
+    Mysql.userWork.Insert_log(user_id,json.loads(state)["current_status"])
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 67, in GET
+    Mysql.userWork.Insert_log(user_id,json.loads(state)["current_status"])
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 67, in GET
+    Mysql.userWork.Insert_log(user_id,info)
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 68, in GET
+    Mysql.userWork.Insert_log(user_id,info)
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 68, in GET
+    haha=Mysql.userWork.Insert_log(user_id,info)
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 68, in GET
+    haha=Mysql.userWork.Insert_log(user_id,str(info))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 68, in GET
+    haha=Mysql.userWork.Insert_log(user_id,str(info))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 69, in GET
+    haha=Mysql.userWork.Insert_log(user_id,str(info))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(TIMEFORMAT,time.localtime())
+NameError: global name 'TIMEFORMAT' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 69, in GET
+    haha=Mysql.userWork.Insert_log(user_id,str(info))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 99, in Insert_log
+    Current_time=time.strftime(time.localtime())
+TypeError: must be string, not time.struct_time
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 17, in Get_last_value
+    if result[0]==99999999:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 27, in Get_last_value
+    sql3="update save_tmp_value set last_value='%s'"%(result[0]+1)
+TypeError: coercing to Unicode: need string or buffer, int found
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 71, in GET
+    Request=Mysql.userWork.Get_last_value() #ÂΩìÂâçÁöÑËØ∑Ê±ÇÂÄº
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\userWork.py", line 27, in Get_last_value
+    sql3="update save_tmp_value set last_value='%s'"%(result[0]+1)
+TypeError: coercing to Unicode: need string or buffer, int found
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 280, in GET
+    return Ip_list[0],Port_list[0],First_type_list[0],Second_type_list[0],Product_num_list[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+None
+None
+None
+None
+None
+None
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 238, in handle_message
+    socket.sendto("there have no data",addr[0],addr[1])
+TypeError: an integer is required
+None
+None
+None
+None
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+None
+None
+None
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Webs\customer.py", line 249, in GET
+    if is_manage=='':
+NameError: global name 'is_manage' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 132, in handle_message
+    info=json.loads(State)["current_status"]
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+TypeError: expected string or buffer
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 132, in handle_message
+    info=json.loads(state)["current_status"]
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 132, in handle_message
+    info=json.loads(state)["current_status"]
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 132, in handle_message
+    info=json.loads("state")["current_status"]
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 132, in handle_message
+    info=json.loads("state")["current_status"]
+  File "D:\Python27\lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "D:\Python27\lib\json\decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Python27\lib\json\decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+NameError: global name 'info' is not defined
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 133, in handle_message
+    info=state["current_status"]
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 133, in handle_message
+    info=state["current_status"]
+UnboundLocalError: local variable 'state' referenced before assignment
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 145, in handle_message
+    Mysql.userWork.Insert_log_switch(first_type,second_type,product_num,info)
+UnboundLocalError: local variable 'info' referenced before assignment
+None
+None
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 85, in handle_message
+    Num2_message=Mysql.macWork.Product_isExist_inNum2(First_type,Second_type,int(Device_nums))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\macWork.py", line 8, in Product_isExist_inNum2
+    cur = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+Traceback (most recent call last):
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\udpserver.py", line 85, in handle_message
+    Num2_message=Mysql.macWork.Product_isExist_inNum2(First_type,Second_type,int(Device_nums))
+  File "D:\work\÷«ƒ‹º“æ”\new_autohome\Mysql\macWork.py", line 8, in Product_isExist_inNum2
+    cur = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

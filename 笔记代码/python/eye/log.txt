@@ -1,0 +1,498 @@
+﻿Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 113, in GET
+    input_message = Mysql.record.Record(Record_id=record_id,Left_eye=left_eye,Right_eye=right_eye)
+  File "H:\Desktop\eye\Mysql\record.py", line 14, in Record
+    sql1="insert into record(record_id,left_eye,right_eye,time_year,time) values ('%s','%s','%s','%s','%s')"%(Password,Username,Nickname,Head_photo,Gettime1,Gettime2)
+NameError: global name 'Password' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 45, in Get_record_eye
+    result[0]= cur.fetchall()
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 149, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result.append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 50, in Get_record_eye
+    result[0].append(haha)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    result.append(gaga)
+AttributeError: 'tuple' object has no attribute 'append'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 47, in Get_record_eye
+    return result+"haa"
+TypeError: can only concatenate tuple (not "str") to tuple
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 47, in Get_record_eye
+    return result+"haa"
+TypeError: can only concatenate tuple (not "str") to tuple
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 150, in GET
+    left_eye_list.append(message[1])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 49, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 52, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message[i])
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+TypeError: 'int' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 145, in GET
+    return every_message[1]
+TypeError: 'int' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[1]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 54, in Get_record_eye
+    return message[-2]
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 154, in GET
+    "time":every_message[0],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 144, in GET
+    every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "H:\Desktop\eye\Mysql\record.py", line 55, in Get_record_eye
+    haha = Get_record_left_eye(Record_id,message)
+  File "H:\Desktop\eye\Mysql\record.py", line 78, in Get_record_left_eye
+    result1.append(haha1[0])
+TypeError: 'float' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 179, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "H:\Desktop\eye\Mysql\record.py", line 97, in Record_health
+    if get_by_health_record_id(Record_id) == None:
+NameError: global name 'get_by_health_record_id' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 181, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "H:\Desktop\eye\Mysql\record.py", line 97, in Record_health
+    if get_by_health_record_id(Record_id) == None:
+NameError: global name 'get_by_health_record_id' is not defined
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 212, in GET
+    "time":every_message[0],
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "H:\Desktop\eye\Webs\customer.py", line 213, in GET
+    "health_status":every_message[1],
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 113, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 113, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 113, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 113, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 113, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 114, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 114, in Record_health
+    if get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2) == None:
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 114, in Record_health
+    hah=get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2)
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 193, in GET
+    haha=Mysql.record.Record_health(Record_id=record_id,Health_status=health_status)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 114, in Record_health
+    hah=get_by_health_day(Time_year=Gettime1,Iime_month=Gettime2)
+TypeError: get_by_health_day() got an unexpected keyword argument 'Iime_month'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 155, in GET
+    haha=every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 60, in Get_record_eye
+    return result1[0].right(3)
+AttributeError: 'float' object has no attribute 'right'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 155, in GET
+    haha=every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 60, in Get_record_eye
+    return len(result1[0])
+TypeError: object of type 'float' has no len()
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 155, in GET
+    haha=every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 60, in Get_record_eye
+    return len(result1[0])
+TypeError: object of type 'float' has no len()
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\eye\Webs\customer.py", line 155, in GET
+    haha=every_message = Mysql.record.Get_record_eye(Record_id=record_id)
+  File "C:\Users\Administrator\Desktop\eye\Mysql\record.py", line 56, in Get_record_eye
+    return len(haha)
+TypeError: object of type 'float' has no len()
