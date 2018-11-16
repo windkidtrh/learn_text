@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<p>
+		{% for item in Test1 %}
+			<h1>{{item.name}}</h1>
+			<h2>{{item.age}}</h2>
+			<h3>{{item.sex}}</h3>
+		{% endfor %}
+	</p>
+		<!-- < pre 1  of 2 Next > -->
+	<div>
+		{% if Test1.has_previous %}
+			<a href="?page={{Test1.previous_page_number}}">< Pre</a>
+		{% endif%}
+
+		<span> {{ Test1.number }} of {{ Test1.paginator.num_pages }}</span>
+
+		{% if Test1.has_next%}
+			<a href="?page={{Test1.next_page_number}}">Next ></a>
+		{% endif%}
+	</div>
+</body>
+</html>
